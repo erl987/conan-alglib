@@ -1,0 +1,3 @@
+# Project exclude paths
+/test_package/build/
+/tmp/
